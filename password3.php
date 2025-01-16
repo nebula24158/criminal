@@ -1,2 +1,2 @@
 // SigmaKunHa218
-$password = 1234;
+$password = 4975;

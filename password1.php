@@ -1,2 +1,2 @@
 // Skibidi1234toilet
-$password = 1234;
+$password = 9572;
